@@ -9,6 +9,8 @@ from ai_panel import AiFrame
 import sys
 import os
 
+## python app/main.py (manda on con questo)
+
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 SCREENS = {
