@@ -4,7 +4,7 @@ from mysql.connector import Error
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",        
-    "password": "Messi1987",        
+    "password": "",        
     "database": "aire_db"
 }
 
